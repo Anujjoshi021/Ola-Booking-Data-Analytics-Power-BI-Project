@@ -1,4 +1,66 @@
 # Ola-Booking-Data-Analytics-Power-BI-Project
+The objective of this project is to analyze Ola’s revenue and operational data for July 2024 to:
+
+➤ Understand payment method preferences and their impact on total revenue.
+
+➤ Identify high-value customers and analyze their contribution.
+
+➤ Examine daily ride distances to track demand consistency.
+
+➤ Provide data-driven recommendations to optimize payment strategies and customer engagement.
+
+This analysis aims to uncover actionable business insights to improve financial performance and enhance operational efficiency.
+<h1>Data-Backed Insights & Conclusions:</h1>
+<img src = "https://github.com/Anujjoshi021/Ola-Booking-Data-Analytics-Power-BI-Project/blob/main/Snapshots%20of%20the%20Dashboard_/Overall.png">
+<h2>📊 Ride Volume Breakdown by Status</h2>
+
+✅ <strong>Successful Bookings:</strong> 63.97K rides were completed successfully, representing ~62.09% of total bookings.
+
+❌ <strong>Cancellations:</strong>
+
+Canceled by Customer: 18.43K (~17.89%)
+
+Canceled by Driver: 10.5K (~10.19%)
+
+Driver Not Found: 10.12K (~9.83%)</br></br>
+
+➤ <strong>Insight:</strong> Around 38% of the bookings failed due to either cancellations or driver unavailability. This is a significant number that impacts both customer experience and business revenue.
+
+<h3>🧠 Actionable Insights:</h3>
+➤ High Cancellation Rate: Over 1 in 3 rides are unsuccessful – efforts should focus on reducing both driver and customer cancellations.</br></br>
+
+➤ Driver Allocation Issue: ~10% of rides show "Driver Not Found" — this suggests inefficiencies in fleet management or driver availability.
+
+➤ Revenue Opportunity: Improving the success rate could significantly increase revenue beyond the current ₹35M monthly value.</br></br></br></br>
+
+
+<img src = "https://github.com/Anujjoshi021/Ola-Booking-Data-Analytics-Power-BI-Project/blob/main/Snapshots%20of%20the%20Dashboard_/Cancellation.png">
+
+<h2>📊 Booking Overview:</h2>
+Total Bookings: 1,03,024 </br></br>
+
+Successful Bookings: 63,967
+
+Cancelled Bookings: 28,933
+
+Cancellation Rate: ~28.08%</br></br>
+
+➤ <strong>Insight:</strong> Nearly 1 in every 4 rides was cancelled — a significant loss of revenue and customer trust. Root causes must be identified and resolved to reduce churn.</br></br></br></br>
+
+<img src = "https://github.com/Anujjoshi021/Ola-Booking-Data-Analytics-Power-BI-Project/blob/main/Snapshots%20of%20the%20Dashboard_/Revenue.png">
+<h2>✅ Key Insights:</h2>
+Cash (≈50%) dominates Ola’s revenue collection.
+
+UPI (≈38%) follows, showing strong digital adoption.
+
+➤ Card payments are underutilized (<10% combined), suggesting opportunity for incentivization (e.g., cashback or discounts) to promote non-cash methods.
+
+➤ Top 5 customers alone contributed ~₹32.6K, indicating a small but high-value customer segment. These users may benefit from premium loyalty programs, referral incentives, or targeted offers to retain and expand spending. </br></br></br></br>
+
+
+
+
+
 
 <h2>Power BI Questions:</h2>
 1. Ride Volume Over Time <br/>
