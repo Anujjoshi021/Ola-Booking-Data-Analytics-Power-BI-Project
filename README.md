@@ -1,6 +1,6 @@
 # Ola-Booking-Data-Analytics-Power-BI-Project
 
-Power BI Questions:
+<h2>Power BI Questions:</h2>
 1. Ride Volume Over Time
 2. Booking Status Breakdown
 3. Top 5 Vehicle Types by Ride Distance
